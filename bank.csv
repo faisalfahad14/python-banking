@@ -1,1 +1,4 @@
-account_id,first_name,last_name,password,balance_checking,balance_savings
+Account ID,Account Type,First Name,Last Name,Password,Checking Balance,Savings Balance
+1001,savings,Faisal,Fahad,111,0,0
+1002,savings,Faisal,Fff,fff,0,0
+1003,Both,Abdullah,Alhammadi,1234,0,0
