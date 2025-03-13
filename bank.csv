@@ -1,4 +1,7 @@
-Account ID,Account Type,First Name,Last Name,Password,Checking Balance,Savings Balance
-1001,savings,Faisal,Fahad,111,0,0
-1002,savings,Faisal,Fff,fff,0,0
-1003,Both,Abdullah,Alhammadi,1234,0,0
+Account ID,Account Type,First Name,Last Name,Password,Checking Balance,Savings Balance,Overdraft Flag
+1,savings,Faisal,Fahad,1,-82.0,0,1
+1002,Both,Abdullah,Alhammadi,123,0,0,0
+1003,Both,Faisal,Almalki,111,-69.0,0,1
+1004,Both,Faisal,As,111,0,0,0
+1005,Both,Faisal,Almalki,111,-96.0,0,1
+1006,Both,Faisal,Almalki,111,-18.0,0,1
